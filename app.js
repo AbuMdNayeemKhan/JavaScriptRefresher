@@ -7,5 +7,4 @@ let anoFun = () =>{
 }
  
 anoFun();
-
 //function 
