@@ -5,7 +5,7 @@ let anoFun = () =>{
         console.log('Hi Im anonimouse function');
     }
 }
-
+ 
 anoFun();
 
 //function 
